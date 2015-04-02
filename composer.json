@@ -1,0 +1,17 @@
+{
+	"name": "aarontgrogg/wp-plugin-figure-figcaption",
+	"description": "Convert WordPress [caption] shortcode into HTML5 <figure> and <figcaption> tags",
+	"type": "wordpress-plugin",
+	"license": "GPL-2.0+",
+	"authors": [
+		{
+			"name": "Aaron T. Grogg",
+			"email": "aarontgrogg@gmail.com",
+			"homepage": "http://aarontgrogg.com",
+			"role": "Developer"
+		}
+	],
+	"require": {
+	    "composer/installers": "~1.0.6"
+	}
+}
